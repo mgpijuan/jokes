@@ -16,4 +16,3 @@ function getJoke() {
     }
     button.addEventListener("click", getJoke);
 
-
